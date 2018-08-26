@@ -1,5 +1,5 @@
 # Trends in Modern Web Development
-Cornell DTI. Coming soon.
+[Cornell DTI](http://cornelldti.org/). Coming soon.
 
 ## Introduction
 This class will teach students about modern web development technologies, practices, and industry standards to better equip them for academic work, research, interviews, internships, and full-time jobs. 
