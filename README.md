@@ -59,13 +59,7 @@ As a two week course, students should expect to work anywhere from 5-6 hours per
 You are free to use whichever text editor or programming IDE of your choice. However, course staff will not be able to directly help you with problems that relate to your editor or IDE.
 
 ## How do I apply?
-Stay tuned for more information! Click on this link to join our email list!
-
-## When does it begin?
-The first class is October 15th, 2018.
-
-## When does it meet?
-Monday 7:30 - 8:20 PM
+Stay tuned for more information!
 
 ## Where does it meet?
 TBD
