@@ -1,0 +1,21 @@
+/**
+* Feel free to edit this file as necessary!
+*/
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.app {
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    font-size: 1.1rem;
+    height: 100%;
+    margin: 10 10%;
+    text-align: left;
+    width: 80%;
+}
+
+i {
+    font-family: monospace;
+}
