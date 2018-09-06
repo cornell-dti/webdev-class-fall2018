@@ -50,7 +50,7 @@ Weekly topics are a combination of lectures, readings, and assignments.
 As this course will be covering both client-facing and server-side technologies, INFO/CS 2300 (or equivalent experience) is required.
 
 ## When is it?
-As a seven-week course, the first class meeting will be Wednesday, October 17th. This course will be held Wednesday evenings from 8:35 - 9:25 PM. A location will be announced to students closer to the beginning of the course.
+As a seven-week course, the first class meeting will be Wednesday, October 17th. This course will be held Wednesday evenings from 8:35 - 9:25 PM.
 
 ## What is the expected workload?
 As a two week course, students should expect to work anywhere from 5-6 hours per week in this course.
@@ -59,7 +59,7 @@ As a two week course, students should expect to work anywhere from 5-6 hours per
 You are free to use whichever text editor or programming IDE of your choice. However, course staff will not be able to directly help you with problems that relate to your editor or IDE.
 
 ## How do I apply?
-Stay tuned for more information!
+Join [this email list](http://eepurl.com/dF3_7X) to stay subscribed!
 
 ## Where does it meet?
 TBD
