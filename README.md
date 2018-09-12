@@ -1,5 +1,5 @@
 # Trends in Modern Web Development
-[Cornell DTI](http://cornelldti.org/). Coming soon.
+[Cornell DTI](http://cornelldti.org/). Join [this email list](http://eepurl.com/dF3_7X) to stay subscribed!
 
 ## Introduction
 This class will teach students about modern web development technologies, practices, and industry standards to better equip them for academic work, research, interviews, internships, and full-time employment. 
@@ -67,7 +67,9 @@ TBD
 ## Policies
 ### Academic Integrity
 As a programming course, you may find yourself in a position to copy or appropriate code that someone else has written. Please cite any code or media that you do not have direct authorship of on any assignments submitted to the course. Code should receive a citation to the original author as a comment in your source code, while media citations (images, videos) should be visible on the page that they appear.
+
 ### Accessibility
 We seek to make this class as inclusive as possible for all students. All lectures will be video recorded for instructor use only. If you have accomodations with Student Disability Services and require access to these recordings, or any other class accommodations, please speak to an instructor and we will work with you to make arrangements as necessary.
+
 ### Cell Phones
 Cell phones are distracting to you, people around you, and instructors. If you plan on taking this course and sitting in lectures on your phone and not paying attention, you may be asked to leave. Please be respectful of other people.
