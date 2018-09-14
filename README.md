@@ -10,7 +10,7 @@ By the end of the course, students will be have a much more in-depth understandi
 Throughout this course, students will work as individuals and in groups to apply these skills to projects. These are both skills that are extremely important to employers: being able to function independently on assigned tasks, and being able to collaborate with different people on a wide variety of tasks. The idea is to closely resemble milestones and checkpoints in project development, which occur with one to many people. The course will culminate with students being able to showcase their semester-long project to each other, and to members of the Cornell Design & Tech Initiative project team.
 
 ## What are the prerequisites?
-As this course will be covering both client-facing and server-side technologies, INFO/CS 2300 (or equivalent experience) is required.
+This course will be covering both client-facing and server-side technologies. INFO/CS 1300, or equivalent experience, is a pre-requisite.
 
 ## When is it?
 The first class meeting will be Wednesday, October 17th. This course will be held Wednesday evenings from 8:35 - 9:25 PM (tentative).
