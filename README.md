@@ -13,7 +13,7 @@ Throughout this course, students will work as individuals and in groups to apply
 This course will be covering both client-facing and server-side technologies. INFO/CS 1300, or equivalent experience, is a pre-requisite.
 
 ## When is it?
-The first class meeting will be Wednesday, October 17th. This course will be held Wednesday evenings from 8:35 - 9:25 PM (tentative).
+The first class meeting will be Wednesday, October 17th. This course will be held Wednesday evenings from 8:35 - 9:25 PM.
 
 ## What is the expected workload?
 Students should expect to work anywhere from 5-6 hours per week in this course.
@@ -25,7 +25,7 @@ You are free to use whichever text editor or programming IDE of your choice. How
 Join [this email list](http://eepurl.com/dF3_7X) to stay subscribed!
 
 ## Where does it meet?
-TBD
+Upson Hall 102
 
 ## Policies
 ### Academic Integrity
