@@ -15,7 +15,7 @@ Throughout this course, students will work as individuals and in groups to apply
 This course will be covering both client-facing and server-side technologies. INFO/CS 1300, or equivalent experience, is a pre-requisite.
 
 ## When is it?
-The first class meeting will be Wednesday, October 17th. This course will be held Wednesday evenings from 8:35 - 9:25 PM.
+The first class meeting will be Wednesday, October 17th. This course will be held Wednesday evenings from 8:35 - 9:25 PM in Upson 102.
 
 ## What is the expected workload?
 Students should expect to work anywhere from 5-6 hours per week in this course.
@@ -24,7 +24,7 @@ Students should expect to work anywhere from 5-6 hours per week in this course.
 You are free to use whichever text editor or programming IDE of your choice. However, course staff will not be able to directly help you with problems that relate to your editor or IDE.
 
 ## How do I apply?
-Join [this email list](http://eepurl.com/dF3_7X) to stay subscribed!
+Course Application: [Link](https://docs.google.com/forms/d/e/1FAIpQLSdulhjWZw_TuBRqdYhmtf1iueYyFQy86U3dYXAV7TIVzNeAcw/viewform?usp=sf_link)
 
 ## Where does it meet?
 Upson Hall 102
