@@ -1,7 +1,11 @@
 # Trends in Modern Web Development
 [Cornell DTI](http://cornelldti.org/).
 
-## Course Application: [Link](https://docs.google.com/forms/d/e/1FAIpQLSdulhjWZw_TuBRqdYhmtf1iueYyFQy86U3dYXAV7TIVzNeAcw/viewform?usp=sf_link)
+## Course Application
+* [Step 1](https://docs.google.com/forms/d/e/1FAIpQLSdulhjWZw_TuBRqdYhmtf1iueYyFQy86U3dYXAV7TIVzNeAcw/viewform?usp=sf_link)
+* [Step 2](https://docs.google.com/forms/d/e/1FAIpQLSdH-aPYv_YwXiALGEwKm6Zt36W3Rn3Kf8Sq01tRiEmG3WMW3Q/viewform?usp=sf_link)
+
+*Both steps of the application must be submitted for your entire application to be considered.*
 
 ## Introduction
 This class will teach students about modern web development technologies, practices, and industry standards to better equip them for academic work, research, interviews, internships, and full-time employment. 
