@@ -1,5 +1,5 @@
 # Trends in Modern Web Development
-[Cornell DTI](http://cornelldti.org/).
+[Cornell DTI](http://cornelldti.org/). Read our article about the course on [Medium](https://medium.com/cornell-design-tech-initiative/cornell-dti-trends-in-web-development-4cb5abc56776)!
 
 ## Course Application
 * [Step 1](https://docs.google.com/forms/d/e/1FAIpQLSdulhjWZw_TuBRqdYhmtf1iueYyFQy86U3dYXAV7TIVzNeAcw/viewform?usp=sf_link)
