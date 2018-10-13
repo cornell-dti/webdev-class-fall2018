@@ -4,8 +4,6 @@
 ## Course Application
 ### Applications are now closed. Please email [shb95@cornell.edu](mailto:shb95@cornell.edu) if you would still like to enroll.
 
-*Both steps of the application must be submitted for your entire application to be considered.*
-
 ## Introduction
 This class will teach students about modern web development technologies, practices, and industry standards to better equip them for academic work, research, interviews, internships, and full-time employment. 
 
