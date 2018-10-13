@@ -2,8 +2,7 @@
 [Cornell DTI](http://cornelldti.org/). Read our article about the course on [Medium](https://medium.com/cornell-design-tech-initiative/cornell-dti-trends-in-web-development-4cb5abc56776)!
 
 ## Course Application
-* [Step 1](https://docs.google.com/forms/d/e/1FAIpQLSdulhjWZw_TuBRqdYhmtf1iueYyFQy86U3dYXAV7TIVzNeAcw/viewform?usp=sf_link)
-* [Step 2](https://docs.google.com/forms/d/e/1FAIpQLSdH-aPYv_YwXiALGEwKm6Zt36W3Rn3Kf8Sq01tRiEmG3WMW3Q/viewform?usp=sf_link)
+### Applications are now closed. Please email [shb95@cornell.edu](mailto:shb95@cornell.edu) if you would still like to enroll.
 
 *Both steps of the application must be submitted for your entire application to be considered.*
 
